@@ -1,4 +1,4 @@
-[1. Task #1]()
+[1. Task #1](https://github.com/guldron-edu/test-hw02/blob/task1/index.html)
 
 [2. Task #2]()
 
