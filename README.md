@@ -9,3 +9,5 @@
 [5. Task #5](https://github.com/guldron-edu/test-hw02/blob/task5/index.html)
 
 [6. Task #6](https://github.com/guldron-edu/test-hw02/blob/task6/index.html)
+
+[7. Task #7](https://github.com/guldron-edu/test-hw02/blob/task7/index.html)
